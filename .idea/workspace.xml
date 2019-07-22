@@ -34,15 +34,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CompareTheTriplets.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hackerrank/easy/CompareTheTriplets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="VeryBigSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hackerrank/easy/VeryBigSum.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,11 +88,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GradingStudents.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GradingStudents.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hackerrank/easy/GradingStudents.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppleAndOrange.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hackerrank/easy/AppleAndOrange.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -132,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/com/hackerrank/easy/BirthdayCakeCandles.java" />
         <option value="$PROJECT_DIR$/src/com/hackerrank/easy/TimeConversion.java" />
         <option value="$PROJECT_DIR$/src/com/hackerrank/easy/GradingStudents.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/easy/AppleAndOrange.java" />
       </list>
     </option>
   </component>
@@ -363,8 +364,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hackerrank/easy/GradingStudents.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/easy/AppleAndOrange.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
         </state>
       </provider>
     </entry>
